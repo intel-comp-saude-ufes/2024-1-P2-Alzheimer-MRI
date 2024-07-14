@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+PIL
+tqdm
+PIL
+torch
+imbalanced-learn
+git+https://github.com/paaatcha/raug
+pretrainedmodels
+efficientnet_pytorch
+tensorboardX
+python-telegram-bot
+kaggle
