@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="img/dementia_evolution.png" />
+  <img src="dementia-brain-changes-thumb.png" />
 </p>
 
 
