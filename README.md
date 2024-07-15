@@ -22,7 +22,7 @@ Esse repositório contém o estudo do mal de Alzheimer com imagens de ressonânc
 
 ## Base de dados
 
-base de dados disponibilizada na plataforma Kaggle sobre as diretrizes da licença "Open Data Commons Open Database License (ODbL) v1.0". Os dados foram levantados manualmente juntando imagens de múltiplas bases de dado. Os dados englobam 6400 imagens de ressonância magnética do cérebro de pessoas divididas nas classes "Mild Demented", "Moderate Demented", "Non Demented" e "Very Mild Demented".
+Base de dados disponibilizada na plataforma Kaggle sobre as diretrizes da licença "Open Data Commons Open Database License (ODbL) v1.0". Os dados foram levantados manualmente juntando imagens de múltiplas bases de dado. Os dados englobam 6400 imagens de ressonância magnética do cérebro de pessoas divididas nas classes "Mild Demented", "Moderate Demented", "Non Demented" e "Very Mild Demented".
 
 ## Instalação
 
@@ -36,7 +36,7 @@ Agora, vamos clonar um repositório Git e criar um ambiente virtual Python:
 
 ```bash
 # Baixe o projeto
-git clone https://github.com/intel-comp-saude-ufes/2024-1-P1-dementia.git
+git clone https://github.com/intel-comp-saude-ufes/2024-1-P2-Alzheimer-MRI.git
 
 # Entre na pasta do projeto
 cd 2024-1-P2-ALZHEIMER-MRI/
