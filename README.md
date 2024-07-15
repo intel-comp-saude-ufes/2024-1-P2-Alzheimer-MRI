@@ -39,13 +39,13 @@ Agora, vamos clonar um repositório Git e criar um ambiente virtual Python:
 git clone https://github.com/intel-comp-saude-ufes/2024-1-P1-dementia.git
 
 # Entre na pasta do projeto
-cd 2024-1-P1-dementia/
+cd 2024-1-P2-ALZHEIMER-MRI/
 
-# Crie um ambiente virtual com nome 'dementia'
-conda create -n dementia
+# Crie um ambiente virtual com nome 'alzheimer'
+conda create -n alzheimer
 
 # Ative o ambiente virtual
-conda activate dementia
+conda activate alzheimer
 ```
 
 ### Instalando as dependências
@@ -69,7 +69,13 @@ Então, abra o browser em: [http://localhost:8888/](http://localhost:8888/). O a
 
 ## Resultados 
 
+|Matriz de Confusão                           |  Curva ROC                                 |
+|:-------------------------------------------:|:-------------------------------------------:
+![Matriz de confusão](./img/conf_matrix.png)  |  ![](./img/roc.png)
 
+Nesse trabalho foi possível obter um modelo classificador capaz de classificar diversos níveis de Alzheimer de um paciente, sendo capaz de identificar até mesmo casos mais iniciais da doença. 
+
+Os resultados mostram que os classificadores utilizados tiveram bons resultados e teriam boa aplicabilidade para um modelo em produção. Entretanto, a DenseNet se destacou em todas as métricas utilizadas. Dessa forma, poderia-se utilizar o modelo como ferramenta auxiliar de médicos para a identificação precoce da doença.
 
 ## Licença
 
