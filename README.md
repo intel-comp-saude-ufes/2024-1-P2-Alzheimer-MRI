@@ -7,7 +7,7 @@
 
 
 ## Resumo
-Esse repositório contém o estudo dos dados de demência em um dataset opensource com a informação de 1000 pessoas e 24 features. O trabalho é constituido do tratamento, processamento e exploração dos dados, incluindo modelos de ML e seus resultados.
+Esse repositório contém o estudo do mal de Alzheimer com imagens de ressonância magnética do cérebro em um dataset opensource com 6400 imagens divididas entre 4 classes. O trabalho é constituido do tratamento e processamento das imagens, incluindo modelos de ML e seus resultados.
 
 
 ## Sumário
