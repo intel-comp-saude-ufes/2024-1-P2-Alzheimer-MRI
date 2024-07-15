@@ -12,3 +12,4 @@ efficientnet_pytorch
 tensorboardX
 python-telegram-bot
 kaggle
+seaborn
